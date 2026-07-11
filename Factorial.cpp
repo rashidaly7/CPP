@@ -9,7 +9,7 @@ int fact(int k){
     }
 }
 int main(){
-    cout << fact(5);
+    cout <<"factorial Number: "<< fact(5);
     return 0;
 }
 
