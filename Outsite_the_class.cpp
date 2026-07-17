@@ -10,5 +10,6 @@ void myclass::myvoid(){
 int main(){
    myclass myOjk;
    myOjk.myvoid();
+   cout << "hello rashid ali";
    return 0;
 }
